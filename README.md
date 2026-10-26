@@ -2,7 +2,7 @@
 
 #Pruebas
 
-#Prueba 1
+# Prueba 1
 <img width="349" height="477" alt="image" src="https://github.com/user-attachments/assets/666bcb4f-227b-40d6-8ac0-1dc73a32facd" />
 <img width="361" height="236" alt="image" src="https://github.com/user-attachments/assets/c063db25-6d26-41eb-9666-86aad1a82366" />
 
