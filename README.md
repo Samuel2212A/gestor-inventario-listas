@@ -1,6 +1,6 @@
 # Gestor-inventario-listas. Samuel Ayala Quinche.
 
-#Pruebas
+# Pruebas
 
 # Prueba 1
 <img width="349" height="477" alt="image" src="https://github.com/user-attachments/assets/666bcb4f-227b-40d6-8ac0-1dc73a32facd" />
