@@ -1,5 +1,7 @@
 # Gestor-inventario-listas. Samuel Ayala Quinche.
 
+Este es un programa de consola en python utilizado para administrar el inventario de una tienda pequeña, el objetivo es administrar de manera optima un inventario, usando listas, ciclos y condicionales.
+
 # Pruebas
 
 # Prueba 1
